@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nathan Vontz
-- 👀 I’m interested in Blockchain App Development
+- 👀 I’m interested in Fullstack Application Development
 - 🌱 I’m currently learning Blockchain Fundementals and React Web Development
-- 💞️ I’m looking to collaborate on NFT projects
+- 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me nathanvontz@gmail.com
 
 <!---
